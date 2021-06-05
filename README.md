@@ -10,3 +10,5 @@ DESCRIPCIÓN:
 * El archivo empleo_desempleo_serie.csv es el archivo que contiene una serie de tiempo desde diciembre de 2007 a abril de 2021 de los  indicadores tasa de empleo y desempleo a nivel nacional y por sexo.
 * El archivo diccionario_enemdu_personas_2021_04.xlsx contiene el diccionario de las variables de la encuesta nacional de empleo y desempleo. 
 * Los archivos de formato Tableau contienen la visualización realizada en dicho Software.
+
+**NOTA**: Cualquier persona que desee hacer uso de estos datos lo puede hacer sin ningún problema, ya que son datos abiertos del Instituto Nacional de Estadisticas y Censos del Ecuador. Además de ser necesario pueden hacer uso del archivo de procesamiento y de  los gráficos elaborados. 
